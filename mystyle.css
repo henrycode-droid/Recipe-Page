@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    background-image: url("2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover; 
+}
+h2{
+    color:brown;
+}
+
+#topic{
+   text-align: center;
+   font-size: 50px;
+   font-family: 'Times New Roman', Times, serif;
+   font-style: oblique;
+   font-weight: bolder;
+}
+.list,.steps{
+    height: auto;
+    line-height: 190%;
+    font-size: large;
+    font-weight: 200;
+    font-weight: bolder;      
+}
+
+#rice{
+    float:right; 
+    
+}
+
+
+ul{
+    list-style-type: disc;
+}
